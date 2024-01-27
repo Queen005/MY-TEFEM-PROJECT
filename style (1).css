@@ -1,0 +1,163 @@
+body {
+    background-color: white;
+  }
+  
+  .logo h1 {
+    font-size: 1.5em;
+    color: black;
+    padding: 20px;
+    margin-left: 4em;
+    margin-bottom: -4em;
+
+  }
+
+.navbar {
+    padding: 30px;
+    margin-bottom: -3em;
+    
+}
+
+.ul {
+    
+    color: blue
+}
+.nav-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 22px;
+    font-size: 22px;
+    text-align: center;
+    
+    
+}
+
+a {
+    text-decoration: none;
+
+}
+
+li {
+    list-style: none;
+    color: black
+    
+}
+
+li:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+  
+  
+  .hero {
+    background-color: white;
+    color: green;
+    text-align: left;
+    padding: 10em 0;
+  }
+  
+  .hero h2 {
+    font-size: 4em;
+    margin-bottom: 0.2em;
+    
+  }
+  
+  .hero p {
+    font-size: 3em;
+    margin-bottom: 1em;
+    color: black;
+  }
+  
+  .hero button {
+    background-color: green;
+    color: white;
+    border-radius: 30px;
+    padding: 1em 2em;
+    font-size: 1.5em;
+    cursor: pointer;
+  }
+  
+  .hero button:hover {
+    background-color: green;
+    color: white;
+  }
+  
+  .image {
+    float: right;
+    margin-top: 70px;
+    margin-left: 80px;
+  }
+.myDiv {
+    width: 1000px;
+    display: flex;
+    margin-left: 15em;
+    margin-right: auto;
+    border: none;
+    margin-top: -50px;
+
+}
+  
+  .image img {
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+    border-radius: 50%; 
+  }
+
+  
+.myDiv2 {
+    width: 1000px;
+    display: flex;
+    margin-left: 15em;
+    margin-right: auto;
+    border: none;
+    margin-top: -50px;
+ }
+
+ .image2 {
+    float: left;
+    margin-right: 110px;
+    margin-left: 20px;
+}
+    
+
+ .image2 img {
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+    border-radius: 5%; 
+ }
+
+ .hero2 h1 {
+    background-color: white;
+    color: green;
+    text-align: left;
+    padding: 0.5em 0;
+    font-size: 1em;
+    margin-top: 70px;
+  }
+  
+  .hero2 h2 {
+    font-size: 2.5em;
+    margin-bottom: 0.2em;
+    
+  }
+  
+  .hero2 p {
+    font-size: 1em;
+    margin-bottom: 1em;
+    color: black;
+  }
+  
+ .hero2 button {
+    background-color: green;
+    color: white;
+    border-radius: 30px;
+    padding: 1em 2em;
+    font-size: 1.5em;
+    cursor: pointer;
+  }
+  
+  .hero2 button:hover {
+    background-color: green;
+    color: white;
